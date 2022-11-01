@@ -95,3 +95,91 @@
 .orta_project img{
     font-size: 100px;
 }
+.section_3{
+    height: 490px;
+    background: linear-gradient(90deg, #504DC2 20.44%, #5F12D0 80.91%), #C4C4C4;
+    position: relative;
+}
+.nashi{
+    margin-left: 350px;
+}
+.vseuslugi{
+    margin-left: 800px;
+    border-radius: 30px !important;
+    width: 200px;
+}
+.section_4{
+    height: 500px;
+}
+.card_top{
+    padding-top: 140px;
+
+}
+.nashir{
+    font-size: 30px ;
+    color: #FFFFFF;
+    margin-top: 50px !important;
+
+    
+
+}
+.vseus{
+    width: 200px;
+    border-radius: 30px !important;
+    margin-top: 50px;
+   
+}
+.page-xizmatlari{
+    width: 1000px;
+    padding-top: 100px;
+}
+.card-text{
+    color: #999999;
+}
+.card{
+    border: none !important;
+}
+.section_5{
+    background: #F6F6F8;
+    height: 700px ;
+    width: 100%;
+
+}
+.text_5{
+    color: #999999;
+}
+.r-2{
+  width: 230px;
+    
+}
+.button_5{
+    width: 200px;
+    border-radius: 30px !important;
+    
+}
+.divb{
+    margin-top: 70px;
+}
+.section_6{
+    background-image: url("/Rectangle\ \(1\).png");
+    height: 550px;
+}
+.video{
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.prosta{
+    color: #FFFFFF;
+}
+.video_img{
+    width: 950px;
+    height: 550px;
+    padding-top:50px;
+    z-index: 50px;
+  
+}
+.section_7{
+    height: 400px;
+}
+
+  
